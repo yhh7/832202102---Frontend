@@ -4,9 +4,9 @@
 
 ## Languaged Used:
 
-- **JavaScript:   **adds interactivity and dynamic behavior to web pages.
-- **HTML（HyperText Markup Language）：** provides the structure of web pages.
-- **CSS（Cascading Style Sheets）：**styles and layouts the web pages. 
+- **JavaScript:** adds interactivity and dynamic behavior to web pages.
+- **HTML（HyperText Markup Language）** provides the structure of web pages.
+- **CSS（Cascading Style Sheets）** styles and layouts the web pages. 
 
 ## CodeStyle：
 
